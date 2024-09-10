@@ -1,2 +1,3 @@
-# Online-Whiteboard
-Google Jamboard-like app
+# Full Stack Assignment
+
+Case Study assignment for the course full stack development
